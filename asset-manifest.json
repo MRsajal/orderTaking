@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/orderTaking/static/css/main.be5f05a5.css",
+    "main.css": "/orderTaking/static/css/main.7427e4eb.css",
     "main.js": "/orderTaking/static/js/main.ee40aec3.js",
     "index.html": "/orderTaking/index.html",
-    "main.be5f05a5.css.map": "/orderTaking/static/css/main.be5f05a5.css.map",
+    "main.7427e4eb.css.map": "/orderTaking/static/css/main.7427e4eb.css.map",
     "main.ee40aec3.js.map": "/orderTaking/static/js/main.ee40aec3.js.map"
   },
   "entrypoints": [
-    "static/css/main.be5f05a5.css",
+    "static/css/main.7427e4eb.css",
     "static/js/main.ee40aec3.js"
   ]
 }
